@@ -1,12 +1,14 @@
 # firstGame
- a Small game written i c++ programming language with the aid of SFML library
+ **a Small game written i c++ programming language with the aid of SFML library**
 
-#1 we in this tutorial will need to a gcc compiler and a tiny text editor and 
+# TOOLS WE NEED  
+
+ we in this tutorial will need to a gcc compiler and a tiny text editor and 
   SFML library and you can download it from it's official website 
   
   https://www.sfml-dev.org/
   
-#2 if you using windows and using VISUAL STUDIO you can download the virsion that's made spicially for
+ if you using windows and using VISUAL STUDIO you can download the virsion that's made spicially for
 MSVC compiler or if you using MinGW you can download it's version 
 #3 on linux like me you can download gcc using the command 
     
@@ -16,4 +18,5 @@ MSVC compiler or if you using MinGW you can download it's version
  
     apt-get install libsfml-dev
     
+
     
