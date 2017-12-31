@@ -9,8 +9,11 @@
 #2 if you using windows and using VISUAL STUDIO you can download the virsion that's made spicially for
 MSVC compiler or if you using MinGW you can download it's version 
 #3 on linux like me you can download gcc using the command 
+    
     apt-get install gcc
- and you can download SFML using 
+    
+ and you can download SFML using
+ 
     apt-get install libsfml-dev
     
     
